@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\bin\Debug\net7.0\LasanhaDoLucian.exe
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\bin\Debug\net7.0\LasanhaDoLucian.deps.json
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\bin\Debug\net7.0\LasanhaDoLucian.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\bin\Debug\net7.0\LasanhaDoLucian.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\bin\Debug\net7.0\LasanhaDoLucian.pdb
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\obj\Debug\net7.0\LasanhaDoLucian.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\obj\Debug\net7.0\LasanhaDoLucian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\obj\Debug\net7.0\LasanhaDoLucian.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\obj\Debug\net7.0\LasanhaDoLucian.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\obj\Debug\net7.0\LasanhaDoLucian.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\obj\Debug\net7.0\LasanhaDoLucian.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\obj\Debug\net7.0\refint\LasanhaDoLucian.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\obj\Debug\net7.0\LasanhaDoLucian.pdb
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\obj\Debug\net7.0\LasanhaDoLucian.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\LasanhaDoLucian\obj\Debug\net7.0\ref\LasanhaDoLucian.dll
