@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\bin\Debug\net7.0\AssemblyLine.exe
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\bin\Debug\net7.0\AssemblyLine.deps.json
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\bin\Debug\net7.0\AssemblyLine.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\bin\Debug\net7.0\AssemblyLine.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\bin\Debug\net7.0\AssemblyLine.pdb
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\obj\Debug\net7.0\AssemblyLine.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\obj\Debug\net7.0\AssemblyLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\obj\Debug\net7.0\AssemblyLine.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\obj\Debug\net7.0\AssemblyLine.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\obj\Debug\net7.0\AssemblyLine.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\obj\Debug\net7.0\AssemblyLine.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\obj\Debug\net7.0\refint\AssemblyLine.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\obj\Debug\net7.0\AssemblyLine.pdb
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\obj\Debug\net7.0\AssemblyLine.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AssemblyLine\obj\Debug\net7.0\ref\AssemblyLine.dll
