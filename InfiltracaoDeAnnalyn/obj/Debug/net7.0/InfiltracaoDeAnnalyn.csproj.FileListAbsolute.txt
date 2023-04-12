@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\bin\Debug\net7.0\InfiltracaoDeAnnalyn.exe
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\bin\Debug\net7.0\InfiltracaoDeAnnalyn.deps.json
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\bin\Debug\net7.0\InfiltracaoDeAnnalyn.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\bin\Debug\net7.0\InfiltracaoDeAnnalyn.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\bin\Debug\net7.0\InfiltracaoDeAnnalyn.pdb
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\obj\Debug\net7.0\InfiltracaoDeAnnalyn.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\obj\Debug\net7.0\InfiltracaoDeAnnalyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\obj\Debug\net7.0\InfiltracaoDeAnnalyn.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\obj\Debug\net7.0\InfiltracaoDeAnnalyn.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\obj\Debug\net7.0\InfiltracaoDeAnnalyn.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\obj\Debug\net7.0\InfiltracaoDeAnnalyn.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\obj\Debug\net7.0\refint\InfiltracaoDeAnnalyn.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\obj\Debug\net7.0\InfiltracaoDeAnnalyn.pdb
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\obj\Debug\net7.0\InfiltracaoDeAnnalyn.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\InfiltracaoDeAnnalyn\obj\Debug\net7.0\ref\InfiltracaoDeAnnalyn.dll
