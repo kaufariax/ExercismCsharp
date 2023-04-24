@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\bin\Debug\net7.0\AnaliseLogs.exe
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\bin\Debug\net7.0\AnaliseLogs.deps.json
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\bin\Debug\net7.0\AnaliseLogs.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\bin\Debug\net7.0\AnaliseLogs.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\bin\Debug\net7.0\AnaliseLogs.pdb
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\obj\Debug\net7.0\AnaliseLogs.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\obj\Debug\net7.0\AnaliseLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\obj\Debug\net7.0\AnaliseLogs.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\obj\Debug\net7.0\AnaliseLogs.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\obj\Debug\net7.0\AnaliseLogs.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\obj\Debug\net7.0\AnaliseLogs.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\obj\Debug\net7.0\refint\AnaliseLogs.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\obj\Debug\net7.0\AnaliseLogs.pdb
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\obj\Debug\net7.0\AnaliseLogs.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\AnaliseLogs\obj\Debug\net7.0\ref\AnaliseLogs.dll
