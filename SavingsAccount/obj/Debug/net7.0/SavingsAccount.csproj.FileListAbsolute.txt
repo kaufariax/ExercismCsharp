@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\bin\Debug\net7.0\SavingsAccount.exe
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\bin\Debug\net7.0\SavingsAccount.deps.json
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\bin\Debug\net7.0\SavingsAccount.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\bin\Debug\net7.0\SavingsAccount.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\bin\Debug\net7.0\SavingsAccount.pdb
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\obj\Debug\net7.0\SavingsAccount.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\obj\Debug\net7.0\SavingsAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\obj\Debug\net7.0\SavingsAccount.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\obj\Debug\net7.0\SavingsAccount.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\obj\Debug\net7.0\SavingsAccount.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\obj\Debug\net7.0\SavingsAccount.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\obj\Debug\net7.0\refint\SavingsAccount.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\obj\Debug\net7.0\SavingsAccount.pdb
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\obj\Debug\net7.0\SavingsAccount.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\SavingsAccount\obj\Debug\net7.0\ref\SavingsAccount.dll
