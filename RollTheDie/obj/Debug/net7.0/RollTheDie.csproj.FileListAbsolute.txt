@@ -1,0 +1,15 @@
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\bin\Debug\net7.0\RollTheDie.exe
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\bin\Debug\net7.0\RollTheDie.deps.json
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\bin\Debug\net7.0\RollTheDie.runtimeconfig.json
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\bin\Debug\net7.0\RollTheDie.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\bin\Debug\net7.0\RollTheDie.pdb
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\obj\Debug\net7.0\RollTheDie.csproj.AssemblyReference.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\obj\Debug\net7.0\RollTheDie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\obj\Debug\net7.0\RollTheDie.AssemblyInfoInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\obj\Debug\net7.0\RollTheDie.AssemblyInfo.cs
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\obj\Debug\net7.0\RollTheDie.csproj.CoreCompileInputs.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\obj\Debug\net7.0\RollTheDie.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\obj\Debug\net7.0\refint\RollTheDie.dll
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\obj\Debug\net7.0\RollTheDie.pdb
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\obj\Debug\net7.0\RollTheDie.genruntimeconfig.cache
+C:\Users\eikau\OneDrive\Documentos\ExercismCsharp\RollTheDie\obj\Debug\net7.0\ref\RollTheDie.dll
